@@ -1,3 +1,4 @@
 dist
 .venv
 .idea
+pid_regulator.egg-info
